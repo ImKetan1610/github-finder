@@ -16,7 +16,7 @@ function About() {
         .
       </p>
       <p className="text-lg text-gray-400">
-        Version <span className="text-black">1.0.0</span>
+        Version: <span className="text-black">1.0.0</span>
       </p>
       <p className="text-lg text-gray-400">
         Layout By:
