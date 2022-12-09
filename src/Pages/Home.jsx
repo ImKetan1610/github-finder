@@ -1,11 +1,11 @@
-
+import UserResults from "../components/Users/UserResults";
 
 
 function Home() {
-  return <div>
-    <h1 className="text-6xl">Welcome</h1>
-    {/* {process.env.REACT_APP_GITHUB_TOKEN} */}
-  </div>;
+  return <>
+  {/* serch component */}
+    <UserResults />
+  </>;
 }
 
 export default Home;
