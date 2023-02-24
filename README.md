@@ -39,4 +39,4 @@ Solo Project
 
 ### Live Link
 
-[Github Finder Clone](https://github-finder-tau-lyart.vercel.app/)
+[Github Finder](https://github-finder-tau-lyart.vercel.app/)
