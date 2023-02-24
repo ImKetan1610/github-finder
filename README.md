@@ -37,4 +37,4 @@ Solo Project
 
 ### Live Link
 
-[Github Finder Clone](https://zaraclone123.netlify.app/)
+[Github Finder Clone](https://)
