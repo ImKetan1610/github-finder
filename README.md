@@ -26,7 +26,9 @@ Solo Project
 
 ### About This App:
 
-> It is simple app, built using React, HTML and CSS. Also used github api for the required data and rendered the data on pages with the help of React.
+> It is simple app, built using React, HTML and CSS. 
+> A React app to search GitHub profiles and see profile details.
+> Also used github api for the required data and rendered the data on pages with the help of React.
 > Used tailwind css for the styling.
 
 ### Tech Stack Used
@@ -37,4 +39,4 @@ Solo Project
 
 ### Live Link
 
-[Github Finder Clone](https://)
+[Github Finder Clone](https://github-finder-tau-lyart.vercel.app/)
